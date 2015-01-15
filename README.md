@@ -7,27 +7,27 @@
 - [Git - 英語コミットコメントに使えるオシャレフレーズ集 - Qiita](http://qiita.com/ken_c_lo/items/4cb49f0fb74e8778804d)
 - [ChangeLog を支える英語](https://gist.github.com/hayajo/3938098)
 - [英語でコミットを書こう // Speaker Deck](https://speakerdeck.com/pwim/ying-yu-dekomitutowoshu-kou)
-- [Changelogのための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き -](http://d.hatena.ne.jp/pyopyopyo/20070920/p1)
-- [ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita](http://qiita.com/gogotanaka/items/b65e1b081fa976e5d754 "ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita")
+- [Changelogのための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070920/p1)
+- [ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita](http://qiita.com/gogotanaka/items/b65e1b081fa976e5d754)
 
 ## Release Note
 
-- [Release note のための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き -](http://d.hatena.ne.jp/pyopyopyo/20070922/p1 "Release note のための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き -")
+- [Release note のための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070922/p1)
 
 ## 技術英語
 
-- [辞書で引けない技術英語](http://linuxenglish.blog83.fc2.com/ "辞書で引けない技術英語")
-- [codic - デベロッパーのためのネーミング辞書](http://codic.jp/ "codic - デベロッパーのためのネーミング辞書")
+- [辞書で引けない技術英語](http://linuxenglish.blog83.fc2.com/)
+- [codic - デベロッパーのためのネーミング辞書](http://codic.jp/)
 
 ## コミットメッセージ規約
 
-- [コミットメッセージの書き方 - ククログ(2012-02-21)](http://www.clear-code.com/blog/2012/2/21.html "コミットメッセージの書き方 - ククログ(2012-02-21)")
-- [Git Commit Message Conventions - Google ドキュメント](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit# "Git Commit Message Conventions - Google ドキュメント")
-    - [conventional-changelog/CONVENTIONS.md at master · ajoslin/conventional-changelog](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md "conventional-changelog/CONVENTIONS.md at master · ajoslin/conventional-changelog")
+- [コミットメッセージの書き方 - ククログ(2012-02-21)](http://www.clear-code.com/blog/2012/2/21.html
+- [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
+    - [conventional-changelog/CONVENTIONS.md at master · ajoslin/conventional-changelog](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md)
 
 ## データベース
 
-- [Commit Message Generator](http://whatthecommit.com/ "Commit Message Generator")
+- [Commit Message Generator](http://whatthecommit.com/)
     - コミットメッセージをランダムで表示してくれるサービス
 - [GitHub Archive](https://www.githubarchive.org/)
 - [The GHTorrent project](http://ghtorrent.org/)
