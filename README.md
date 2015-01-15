@@ -21,7 +21,7 @@
 
 ## コミットメッセージ規約
 
-- [コミットメッセージの書き方 - ククログ(2012-02-21)](http://www.clear-code.com/blog/2012/2/21.html
+- [コミットメッセージの書き方 - ククログ(2012-02-21)](http://www.clear-code.com/blog/2012/2/21.html)
 - [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
     - [conventional-changelog/CONVENTIONS.md at master · ajoslin/conventional-changelog](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md)
 
