@@ -8,17 +8,21 @@
 - [ChangeLog を支える英語](https://gist.github.com/hayajo/3938098)
 - [英語でコミットを書こう // Speaker Deck](https://speakerdeck.com/pwim/ying-yu-dekomitutowoshu-kou)
 - [Changelogのための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070920/p1)
-- [ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita](http://qiita.com/gogotanaka/items/b65e1b081fa976e5d754)
+- [ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita](http://qiita.com/gogotanaka/items/b65e1b081fa976e5d754
 
 ## Release Note
 
 - [Release note のための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070922/p1)
 
+## コメント/会話
+
+- [Git - 英語のコメントや issue で頻出する略語の意味 (FYI, AFAIK, ...) - Qiita](http://qiita.com/uasi/items/86c3a09d17792ab62dfe)
+
 ## 技術英語
 
 - [辞書で引けない技術英語](http://linuxenglish.blog83.fc2.com/)
 - [codic - デベロッパーのためのネーミング辞書](http://codic.jp/)
-- [アプリケーションをつくる英語 - 達人出版会](http://tatsu-zine.com/books/english4app "アプリケーションをつくる英語 - 達人出版会")
+- [アプリケーションをつくる英語 - 達人出版会](http://tatsu-zine.com/books/english4app)
 
 ## コミットメッセージ規約
 
