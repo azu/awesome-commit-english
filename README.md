@@ -37,11 +37,7 @@
 
 オススメするコミット関係の英語リソースがある場合はPull Requestして下さい。
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+[Editing](https://github.com/azu/awesome-commit-english/edit/master/README.md "Editing awesome-commit-english/README.md at master · azu/awesome-commit-english")から編集してPull Request出来ます。
 
 ## LISENCE
 
