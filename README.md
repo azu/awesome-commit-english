@@ -18,6 +18,7 @@
 
 - [辞書で引けない技術英語](http://linuxenglish.blog83.fc2.com/)
 - [codic - デベロッパーのためのネーミング辞書](http://codic.jp/)
+- [アプリケーションをつくる英語 - 達人出版会](http://tatsu-zine.com/books/english4app "アプリケーションをつくる英語 - 達人出版会")
 
 ## コミットメッセージ規約
 
