@@ -9,6 +9,8 @@
 - [英語でコミットを書こう // Speaker Deck](https://speakerdeck.com/pwim/ying-yu-dekomitutowoshu-kou)
 - [Changelogのための英文テンプレート集 - ぴょぴょぴょ？ - Linuxとかプログラミングの覚え書き](http://d.hatena.ne.jp/pyopyopyo/20070920/p1)
 - [ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ - Qiita](http://qiita.com/gogotanaka/items/b65e1b081fa976e5d754)
+- [Keep a Changelog](http://keepachangelog.com/ "Keep a Changelog")
+    - CHANGELOGのフォーマットについて
 
 ## Release Note
 
