@@ -46,7 +46,7 @@
 
 [Editing](https://github.com/azu/awesome-commit-english/edit/master/README.md "Editing awesome-commit-english/README.md at master · azu/awesome-commit-english")から編集してPull Request出来ます。
 
-## LISENCE
+## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
