@@ -40,6 +40,10 @@
 - [The GHTorrent project](http://ghtorrent.org/)
     - GitHubのアーカイブ
 
+## ツール
+
+- [m1foley/fit-commit](https://github.com/m1foley/fit-commit "m1foley/fit-commit")
+
 ## Contributing
 
 オススメするコミット関係の英語リソースがある場合はPull Requestして下さい。
