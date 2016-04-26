@@ -34,8 +34,7 @@
   - [conventional-changelog-angular/convention.md](https://github.com/conventional-changelog/conventional-changelog-angular/blob/master/convention.md)
   - [conventional-changelog-jquery/convention.md](https://github.com/conventional-changelog/conventional-changelog-jquery/blob/master/convention.md)
   - [conventional-changelog-ember/convention.md](https://github.com/conventional-changelog/conventional-changelog-ember/blob/master/convention.md)
-  - [conventional-changelog-jshint/convention.md
-  ](https://github.com/conventional-changelog/conventional-changelog-jshint/blob/master/convention.md)
+  - [conventional-changelog-jshint/convention.md](https://github.com/conventional-changelog/conventional-changelog-jshint/blob/master/convention.md)
   - [conventional-changelog-eslint/convention.md](https://github.com/conventional-changelog/conventional-changelog-eslint/blob/master/convention.md)
   - [conventional-changelog-atom/convention.md](https://github.com/conventional-changelog/conventional-changelog-atom/blob/master/convention.md)
 
