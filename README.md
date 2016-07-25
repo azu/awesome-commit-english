@@ -12,6 +12,7 @@
 - [Githubで使われている実用英語コメント集 - Qiita](http://qiita.com/shi_chicken/items/a5f922a3ef3aa58a1839)
 - [Keep a Changelog](http://keepachangelog.com/ "Keep a Changelog")
     - CHANGELOGのフォーマットについて
+- [gitにおけるコミットログ/メッセージ例文集100](http://anond.hatelabo.jp/20160725092419 "gitにおけるコミットログ/メッセージ例文集100")
 
 ## Release Note
 
