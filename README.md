@@ -42,10 +42,8 @@
 
 ## データベース
 
-- [commit-m: GitHubコミットメッセージの文例が検索できるサービス](http://commit-m.minamijoyo.com/)
-    - GitHubコミットメッセージの文例が検索できるサービス
-- [Commit Message Generator](http://whatthecommit.com/)
-    - コミットメッセージをランダムで表示してくれるサービス
+- [Search commit messages - The GitHub Blog](https://github.blog/2017-01-03-search-commit-messages/)
+    - GitHubのコミットメッセージ検索
 - [GitHub Archive](https://www.githubarchive.org/)
 - [The GHTorrent project](http://ghtorrent.org/)
     - GitHubのアーカイブ
